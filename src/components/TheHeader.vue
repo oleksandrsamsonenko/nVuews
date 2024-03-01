@@ -63,7 +63,6 @@ const submitSearch = () => {
   gap: 14px;
   @media (min-width: 1280px) {
     gap: 105px;
-    // max-width: 1680px;
   }
 }
 
